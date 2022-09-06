@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cryptography on Random thoughts about applied cryptography and fuzzing</title>
+    <link>https://cryptography.zone/tags/cryptography/</link>
+    <description>Recent content in Cryptography on Random thoughts about applied cryptography and fuzzing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 19:55:35 +0100</lastBuildDate><atom:link href="https://cryptography.zone/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTFZone 2022 Buggy ASM challenge writeup</title>
+      <link>https://cryptography.zone/posts/buggy-asm/</link>
+      <pubDate>Fri, 02 Sep 2022 19:55:35 +0100</pubDate>
+      
+      <guid>https://cryptography.zone/posts/buggy-asm/</guid>
+      <description>I explore how a field implementation bug in assembly can be exploited to leak the private key in in ECDH (elliptic curve Diffie-Hellman) in a very CTF situation</description>
+    </item>
+    
+  </channel>
+</rss>
