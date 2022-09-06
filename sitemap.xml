@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cryptography.zone/tags/asm/</loc>
+    <loc>https://cryptography.zone/tags/asm/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/tags/bugs/</loc>
+    <loc>https://cryptography.zone/tags/bugs/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/tags/cryptography/</loc>
+    <loc>https://cryptography.zone/tags/cryptography/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/tags/ctf/</loc>
+    <loc>https://cryptography.zone/tags/ctf/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/posts/buggy-asm/</loc>
+    <loc>https://cryptography.zone/posts/buggy-asm/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/posts/</loc>
+    <loc>https://cryptography.zone/posts/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/</loc>
+    <loc>https://cryptography.zone/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/tags/</loc>
+    <loc>https://cryptography.zone/tags/</loc>
     <lastmod>2022-09-02T19:55:35+01:00</lastmod>
   </url><url>
-    <loc>http://cryptography.zone/categories/</loc>
+    <loc>https://cryptography.zone/categories/</loc>
   </url>
 </urlset>
